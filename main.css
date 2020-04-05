@@ -1,0 +1,34 @@
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  align-content: : center;
+  position: absolute;
+  max-width: calc(100vw - 10px);
+}
+
+
+p {
+  display: inline-block;
+  color: white;
+  font-family:"Times New Roman";
+  text-align: center;
+  position: relative;
+  top: 155px;
+  left: 155px;
+  font-size: 55px;
+  max-width: calc(100vw - 450px);
+}
+
+h6 {
+  font-family:"Times New Roman";
+  text-align: center;
+  position: relative;
+  top: 75px;
+  left: 155px;
+  font-size: 25px;
+  max-width: calc(100vw - 450px);
+  color: white;
+}
